@@ -29,7 +29,7 @@ It was developed as a Course Design project to demonstrate proficiency in:
 
 | Dashboard View | Process Manager |
 |:---:|:---:|
-| *(Place your Dashboard screenshot here)* | *(Place your Process List screenshot here)* |
+| <img src="screenshots/figure1.png" width="100%"> | <img src="screenshots/figure2.png" width="100%"> |
 
 ## 🛠️ Tech Stack
 
