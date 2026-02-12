@@ -61,7 +61,7 @@ It was developed as a Course Design project to demonstrate proficiency in:
 
 ## 📝 Author
 
-* **Zhihao Pei** 
+* **Zhihao Pe** 
 * Major: Computer Science & Technology
 * School: China University of Geosciences
 
